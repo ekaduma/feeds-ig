@@ -126,7 +126,7 @@ const allFeeds = feeds.map((feed) => {
                 </div>
               </div>
   
-              <div class="date p-2 -mt-2 text-gray-500 text-date">
+              <div class="date p-2 -mt-2 text-gray-500 text-md">
                 <a href="" class="m-auto"><span id="date">${days} days ago</span></a>
               </div>
   
